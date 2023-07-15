@@ -23,6 +23,8 @@ const techStack = {
   frameworks : ['React', 'Ruby on Rails'],
 }
 ```
+<details>
+<summary> View more Github Stats</summary>
 <table align="center" width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
@@ -54,3 +56,4 @@ const techStack = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=sylvester-wamaya&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+</details>
