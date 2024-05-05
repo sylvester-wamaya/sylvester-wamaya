@@ -31,7 +31,7 @@ const techStack = {
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=sylvester-wamaya&show_icons=true&theme=dracula" />
     </td>
     <td align="center">
-      <a href="https://sylvester-wamaya.github.io/portfolio-website/">
+      <a href="https://sylvesterwamaya.com/">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://github.com/sylvester-wamaya/sylvester-wamaya/blob/master/globe.gif?raw=true" />
@@ -47,7 +47,7 @@ const techStack = {
 
 ---
   <div align="center">
-   <a href="https://sylvesterwamaya.com/">
+   <a href="https://github.com/sylvester-wamaya">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-wamaya&theme=radical&hide=glsl,python" />
    </a>
   </div>
