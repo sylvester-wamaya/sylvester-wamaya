@@ -47,7 +47,7 @@ const techStack = {
 
 ---
   <div align="center">
-   <a href="https://github.com/sylvester-wamaya">
+   <a href="https://sylvesterwamaya.com/">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-wamaya&theme=radical&hide=glsl,python" />
    </a>
   </div>
