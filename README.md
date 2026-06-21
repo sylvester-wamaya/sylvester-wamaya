@@ -12,15 +12,15 @@
 
 const sylvester =  {
   fullName : 'Sylvester Wamaya',
-  title    : 'Full Stack Software Developer',
+  title    : 'Full Stack Software Developer', Data analyst,
   company  : 'Freelancer, looking for my next job!',
   location : 'Nairobi, Kenya',
 };
 
 const techStack = {
-  languages  : ['JavaScript', 'Ruby'],
+  languages  : ['JavaScript', Typescript, 'Ruby', Python],
   databases  : ['MySQL, postgres'],
-  frameworks : ['React', 'Ruby on Rails'],
+  frameworks : ['React', 'Ruby on Rails', Django],
 }
 ```
 <details>
