@@ -43,7 +43,7 @@ const techStack = {
   </tr>
 </table>
 
-![](https://github-profile-trophy.vercel.app/?username=sylvester-wamaya&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+[![Wamaya's Github Stats](https://github-profile-trophy.vercel.app/?username=sylvester-wamaya&theme=matrix&no-frame=false&no-bg=false&margin-w=4)](https://github.com/stats-organization/github-stats-extended)
 
 ---
   <div align="center">
