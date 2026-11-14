@@ -28,7 +28,7 @@ const techStack = {
 <table align="center" width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=sylvester-wamaya&show_icons=true&theme=dracula" />
+      <img align="left" src="https://github-stats-extended.vercel.app/api?username=sylvester-wamaya&show_icons=true&theme=dracula" />
     </td>
     <td align="center">
       <a href="https://sylvesterwamaya.com/">
