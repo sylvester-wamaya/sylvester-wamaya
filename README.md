@@ -43,7 +43,7 @@ const techStack = {
   </tr>
 </table>
 
-[![Wamaya's Github Stats](https://github-profile-trophy.vercel.app/?username=sylvester-wamaya&theme=matrix&no-frame=false&no-bg=false&margin-w=4)](https://github.com/stats-organization/github-stats-extended)
+![](https://github-profile-trophy.vercel.app/?username=sylvester-wamaya&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ---
   <div align="center">
@@ -53,6 +53,7 @@ const techStack = {
   </div>
   
 ---
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sylvester-wamaya)](https://github.com/stats-organization/github-stats-extended)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=sylvester-wamaya&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
