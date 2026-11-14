@@ -45,13 +45,7 @@ const techStack = {
 
 ![](https://github-profile-trophy.vercel.app/?username=sylvester-wamaya&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
----
-  <div align="center">
-   <a href="https://github.com/sylvester-wamaya">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-wamaya&theme=radical&hide=glsl,python" />
-   </a>
-  </div>
-  
+ 
 ---
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sylvester-wamaya)](https://github.com/stats-organization/github-stats-extended)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
